@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Payal!
 
-<!--
-**Payal-Jadhao/Payal-Jadhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🔭 I'm currently learning **Java, Spring Boot & React.js**
+- 🌱 I'm exploring **OOP concepts and Backend Development**
+- 💬 Ask me about **Java, Spring Boot, React**
+- 📫 How to reach me: **payaljadhao2709@gmail.com**
+- ⚡ Fun fact: **Tea + Code = Perfect Day! ☕**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies I Know
+
+**Languages:**  
+Java | JavaScript | HTML | CSS
+
+**Frameworks:**  
+Spring Boot | React.js
+
+**Tools:**  
+Git | GitHub | VS Code
+
+💙 Thanks for visiting my profile!
