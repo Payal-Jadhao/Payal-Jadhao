@@ -2,9 +2,9 @@
 
 # Payal Jadhao
 
-**Java Full Stack Developer**
+**Java Full-Stack Developer | React.js Specialist | Generative & Agentic AI**
 
-Spring Boot · React.js · TypeScript · AI Integration
+Spring Boot · React.js · Java · AI Integration
 
 [Portfolio](https://payal-jadhao.github.io/PAYAL-PORTFOLIO/) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/payaljadhao) &nbsp;|&nbsp; [Email](mailto:payaljadhao2709@gmail.com)
 
