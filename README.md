@@ -132,19 +132,4 @@ A full-stack CRM and Jira-style task platform with Admin, Manager and Employee r
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Payal-Jadhao&show_icons=true&hide_border=true&bg_color=F6F8FA&title_color=333333&text_color=555555&icon_color=777777" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payal-Jadhao&layout=compact&hide_border=true&bg_color=F6F8FA&title_color=333333&text_color=555555" alt="Top Languages" />
-
-</div>
-
----
-
-## Contact
-
-Open to Java / Full Stack Developer roles building robust applications and AI-powered solutions.
-
-[Portfolio](https://payal-jadhao.github.io/PAYAL-PORTFOLIO/) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/payaljadhao) &nbsp;|&nbsp; [payaljadhao2709@gmail.com](mailto:payaljadhao2709@gmail.com)
